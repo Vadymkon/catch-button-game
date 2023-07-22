@@ -1,0 +1,11 @@
+D:\vadymkon\Проги\Убегайка\Убегайка\bin\Release\Убегайка.exe.config
+D:\vadymkon\Проги\Убегайка\Убегайка\bin\Release\Убегайка.exe
+D:\vadymkon\Проги\Убегайка\Убегайка\bin\Release\Убегайка.pdb
+D:\vadymkon\Проги\Убегайка\Убегайка\obj\Release\Убегайка.Properties.Resources.resources
+D:\vadymkon\Проги\Убегайка\Убегайка\obj\Release\Убегайка.csproj.GenerateResource.cache
+D:\vadymkon\Проги\Убегайка\Убегайка\obj\Release\Убегайка.csproj.CoreCompileInputs.cache
+D:\vadymkon\Проги\Убегайка\Убегайка\obj\Release\Убегайка.exe
+D:\vadymkon\Проги\Убегайка\Убегайка\obj\Release\Убегайка.pdb
+D:\vadymkon\Проги\Убегайка\Убегайка\obj\Release\Interop.WMPLib.dll
+D:\vadymkon\Проги\Убегайка\Убегайка\obj\Release\Убегайка.csproj.ResolveComReference.cache
+D:\vadymkon\Проги\Убегайка\Убегайка\obj\Release\Убегайка.Втiкайка.resources
